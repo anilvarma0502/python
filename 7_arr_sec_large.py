@@ -13,13 +13,12 @@ def second_largest(list):
     return second_max
 
 
-#input of list
 li=[]
 n=int(input("Enter size of list "))
 for i in range(0,n):
     e=int(input("Enter elements of list "))
     li.append(e)
 
-#smallest
+
 print("second largest in ",li,"is",end=" ")
 print(second_largest(li))        
