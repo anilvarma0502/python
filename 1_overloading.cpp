@@ -1,5 +1,3 @@
-/*  C++ Program for Rational Operations using Operator Overloading  */
-
 #include<stdio.h>
  #include<iostream>
  using namespace std;
